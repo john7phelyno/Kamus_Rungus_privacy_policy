@@ -1,0 +1,43 @@
+Privacy Policy for Kamus Rungus (Rungus Dictionary) - Google Play Console
+
+Last Updated: [Date]
+
+We at Kamus Rungus  are committed to protecting your privacy and maintaining the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard the information you provide us through the Kamus Rungus app available on the Google Play Console. By using our App, you agree to the terms outlined in this Privacy Policy.
+
+Information We Collect
+
+Device Information: We may collect certain information about your mobile device, such as its operating system, device type, and unique device identifier. This information helps us optimize the App's performance and provide a better user experience.
+
+Usage Information: We may collect information about how you use the App, including the pages or screens you access, the amount of time you spend on each page or screen, and the actions you take. This data is used to improve the functionality and usability of the App.
+
+Audio Files: The App requires an internet connection to download and save audio files to your device's storage. The App also utilizes your device's speaker to play these audio files. We do not access, store, or transmit any audio data generated or played through the App.
+
+Clipboard Content: The App may access the text you copied from within the App for the purpose of sharing it with other apps. However, please note that we do not store or collect any clipboard content.
+
+App File Installer: The App has the ability to share its installer file (.apk) with other apps. This feature is designed for ease of installation and updating purposes.
+
+How We Use Your Information
+
+The information collected is used for the following purposes:
+
+To enhance and improve the App's features, performance, and user experience.
+To troubleshoot and resolve technical issues.
+To analyze user behavior and preferences to optimize content and functionality.
+To ensure the proper functioning of the App's audio playback and sharing features.
+Information Sharing
+
+We do not share, sell, trade, or otherwise transfer your information to third parties, except as described in this Privacy Policy or as required by law. Your data is treated as confidential and is only accessible to authorized personnel who need it for the purposes outlined above.
+
+Security
+
+We take reasonable measures to protect the security of your personal information. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+
+Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. Any updates will be posted within the App, and your continued use of the App constitutes your acceptance of the updated Privacy Policy.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at john.phelyno@gmail.com.
+
+Thank you for using Kamus Rungus (Rungus Dictionary). Your privacy and trust are important to us.
